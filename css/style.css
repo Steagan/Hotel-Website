@@ -130,8 +130,9 @@ color: white;
 }
 
 #showcase .showcase-content h2 {
-    font-size: 60px;
+    font-size: 50px;
     line-height: 1.2em;
+    margin-bottom: -15px;
 }
 
 #showcase .showcase-content p {
